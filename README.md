@@ -50,6 +50,22 @@ The investigation focuses on:
 
 ---
 
+---
+
+## 📄 Full Project Documentation
+
+The complete project report contains the detailed Wireshark investigation, including ARP spoofing detection, MITM analysis, FTP traffic analysis, TCP stream reconstruction, file recovery, and security findings.
+
+📄 **[View Full Investigation Report](./Network-Analysis-Investigation-Report.pdf)**
+
+---
+
+## ⚠️ Disclaimer
+
+This project was performed for educational and cybersecurity training purposes using a controlled investigation scenario.
+
+The techniques demonstrated are intended for authorised security testing, network analysis, and defensive security research.
+
 ## 🕵️ Investigation Workflow
 
 ```text
@@ -76,3 +92,5 @@ Identify Transferred File
 Recover & Analyse File
         ↓
 Investigate Sensitive Information
+
+
